@@ -23,6 +23,8 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Screenshots of deployed app:
+![Deployed Screenshot 1](<Assets\Screenshot 2023-09-22 182956.png>)
+![Deployed Screenshot 2](<Assets\Screenshot 2023-09-22 183010.png>)
 
 Sources that were used during this assignment came from class in canvas, as well as through the resources listed below:
 
